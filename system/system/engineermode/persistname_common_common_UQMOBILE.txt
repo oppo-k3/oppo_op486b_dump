@@ -1,0 +1,5 @@
+jp.wowma.app
+uq.gigazo.wi2.ne.jp
+jp.uqmobile.uqmobileportalapp
+com.access_company.android.nfcommunicator
+jp.uqmobile.portal

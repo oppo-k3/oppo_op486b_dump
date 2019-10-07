@@ -1,0 +1,7 @@
+jp.co.rakuten.broadband.sim
+jp.edy.edyapp
+jp.co.rakuten.magazine
+jp.co.rakuten.android
+jp.co.rakuten.denwa
+jp.co.rakuten.kc.rakutencardapp.android
+com.viber.voip

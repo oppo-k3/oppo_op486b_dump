@@ -1,0 +1,4 @@
+data/app/com.qiyi.video
+data/app/ctrip.english
+data/app/com.vova.android
+data/app/com.qidian.QDReader.traditional

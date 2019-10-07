@@ -1,0 +1,8 @@
+com.gameloft.android.GloftDMKF
+com.amazon.mShop.android.shopping
+com.zeptolab.ctr2.tier.movistar
+com.movistar.android.mimovistar.es
+es.plus.yomvi
+com.gameloft.android.GloftSMIF
+com.oppo.telefonicalibros
+com.oppo.telefonicamovistar

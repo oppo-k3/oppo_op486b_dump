@@ -1,0 +1,8 @@
+in.amazon.mShop.android.shopping
+net.one97.paytm
+cn.wps.moffice_eng
+com.eterno
+app.buzz.share
+com.til.timesnews
+com.qidian.Int.reader
+com.UCMobile.intl

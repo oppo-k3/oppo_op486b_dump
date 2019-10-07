@@ -1,0 +1,8 @@
+data/app/in.amazon.mShop.android.shopping
+data/app/net.one97.paytm
+data/app/cn.wps.moffice_eng
+data/app/com.eterno
+data/app/app.buzz.share
+data/app/com.til.timesnews
+data/app/com.qidian.Int.reader
+data/app/com.UCMobile.intl

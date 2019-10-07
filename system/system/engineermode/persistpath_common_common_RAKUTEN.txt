@@ -1,0 +1,7 @@
+data/app/jp.co.rakuten.broadband.sim
+data/app/jp.edy.edyapp
+data/app/jp.co.rakuten.magazine
+data/app/jp.co.rakuten.android
+data/app/jp.co.rakuten.denwa
+data/app/jp.co.rakuten.kc.rakutencardapp.android
+data/app/com.viber.voip

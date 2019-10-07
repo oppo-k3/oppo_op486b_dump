@@ -1,0 +1,5 @@
+com.android.browser
+com.coloros.browser
+com.oppo.market
+com.nearme.gamecenter
+com.coloros.cloud
